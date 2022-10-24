@@ -1,0 +1,15 @@
+{
+  "name": "coursDu24Oct22",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Rarib LAAMIMAT",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
